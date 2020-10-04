@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-apis",
+  "version": "1.0.0",
+  "description": "restful-Api-tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node_restful_APIs"
+  ],
+  "author": "Prateek011",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cassandra-driver": "^4.6.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "uuid": "^8.3.0"
+  }
+}
